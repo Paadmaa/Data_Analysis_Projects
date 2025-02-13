@@ -6,7 +6,7 @@ A collection of Python projects showcasing data analysis, EDA, and modeling skil
 
 <table style="width:100%">
   <tr>
-    <td style="width:25%"><a href="Airbnb (2024) - EDA"><img src="[Airbnb (2024) - EDA/thumbnail.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techmonitor.ai%2Fwhat-is%2Fwhat-is-airbnb-4913106&psig=AOvVaw159MsrKVf3DOArk3HZj7Fy&ust=1739502762354000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCLiVkPTWv4sDFQAAAAAdAAAAABAE)" width="200"><br>Airbnb EDA</a></td>
+    <td style="width:25%"><a href="Airbnb (2024) - EDA"><img src="C:\Users\Padma\Downloads\Airbnb.jpeg" width="200"><br>Airbnb EDA</a></td>
     <td style="width:25%"><a href="Bank Personal Loan Modelling"><img src="Bank Personal Loan Modelling/thumbnail.png" width="200"><br>Bank Loan Model</a></td>
     <td style="width:25%"><a href="Customer Churn Analysis - EDA"><img src="Customer Churn Analysis - EDA/thumbnail.png" width="200"><br>Churn Analysis</a></td>
     <td style="width:25%"><a href="Diwali Sales Analysis"><img src="Diwali Sales Analysis/thumbnail.png" width="200"><br>Diwali Sales</a></td>
