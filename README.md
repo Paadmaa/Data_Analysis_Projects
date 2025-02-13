@@ -1,35 +1,100 @@
-# Python Data Analysis Portfolio
+# Python Portfolio: Data Analysis & Insights
 
-A collection of Python projects showcasing data analysis, EDA, and modeling skills.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Projects
+Explore my Python data analysis projects. Each project folder contains code, data (where applicable), and a detailed `README.md` explaining the project.
 
-<table style="width:100%">
-  <tr>
-    <td style="width:25%"><a href="Airbnb (2024) - EDA"><img src="C:\Users\Padma\Downloads\Airbnb.jpeg" width="200"><br>Airbnb EDA</a></td>
-    <td style="width:25%"><a href="Bank Personal Loan Modelling"><img src="Bank Personal Loan Modelling/thumbnail.png" width="200"><br>Bank Loan Model</a></td>
-    <td style="width:25%"><a href="Customer Churn Analysis - EDA"><img src="Customer Churn Analysis - EDA/thumbnail.png" width="200"><br>Churn Analysis</a></td>
-    <td style="width:25%"><a href="Diwali Sales Analysis"><img src="Diwali Sales Analysis/thumbnail.png" width="200"><br>Diwali Sales</a></td>
-  </tr>
-  <tr>
-    <td><a href="Ecommerce Sales Analysis"><img src="Ecommerce Sales Analysis/thumbnail.png" width="200"><br>Ecommerce Sales</a></td>
-    <td><a href="Financial Analysis"><img src="Financial Analysis/thumbnail.png" width="200"><br>Financial</a></td>
-    <td><a href="Flipkart Review Sentiment Analysis"><img src="Flipkart Review Sentiment Analysis/thumbnail.png" width="200"><br>Flipkart Sentiment</a></td>
-    <td><a href="IMDB Movies Analysis"><img src="IMDB Movies Analysis/thumbnail.png" width="200"><br>IMDB Movies</a></td>
-  </tr>
-  <tr>
-    <td><a href="Lok Sabha Election Analysis (2024)"><img src="Lok Sabha Election Analysis (2024)/thumbnail.png" width="200"><br>Election Analysis</a></td>
-    <td><a href="Netflix Data Analysis"><img src="Netflix Data Analysis/thumbnail.png" width="200"><br>Netflix Data</a></td>
-    <td><a href="Spotify Song Analysis"><img src="Spotify Song Analysis/thumbnail.png" width="200"><br>Spotify Songs</a></td>
-    <td><a href="SQL & Python - Ecommerce Project"><img src="SQL & Python - Ecommerce Project/thumbnail.png" width="200"><br>SQL & Python Ecommerce</a></td>
-  </tr>
-   <tr>
-    <td><a href="Student Result Analysis"><img src="Student Result Analysis/thumbnail.png" width="200"><br>Student Results</a></td>
-    <td><a href="Zomato Data Analysis"><img src="Zomato Data Analysis/thumbnail.png" width="200"><br>Zomato Data</a></td>
-  </tr>
+## Project Showcase
+
+Use the project overview for a quick assessment, but dive into individual `README.md` files for more!
+
+<details>
+<summary><b>Expand for Project Details</b></summary>
+
+<table style="width:100">
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Key Skills</th>
+</tr>
+<tr>
+<td><a href="Airbnb (2024) - EDA"><img src="Airbnb (2024) - EDA/thumbnail.png" width="100">Airbnb EDA</a></td>
+<td>Exploratory data analysis of Airbnb data to reveal insights into pricing, availability, and location trends.</td>
+<td>EDA, Data Visualization (Matplotlib, Seaborn), Pandas</td>
+</tr>
+<tr>
+<td><a href="Bank Personal Loan Modelling"><img src="Bank Personal Loan Modelling/thumbnail.png" width="100">Bank Loan Model</a></td>
+<td>Building a predictive model for personal loan acceptance using customer data.</td>
+<td>Machine Learning (Scikit-learn), Predictive Modeling, Data Cleaning</td>
+</tr>
+<tr>
+<td><a href="Customer Churn Analysis - EDA"><img src="Customer Churn Analysis - EDA/thumbnail.png" width="100">Churn Analysis</a></td>
+<td>Identifying key factors contributing to customer churn through data analysis.</td>
+<td>EDA, Churn Analysis, Data Visualization</td>
+</tr>
+<tr>
+<td><a href="Diwali Sales Analysis"><img src="Diwali Sales Analysis/thumbnail.png" width="100">Diwali Sales</a></td>
+<td>Analyzing sales data during the Diwali festival to identify trends and optimize marketing strategies.</td>
+<td>Sales Analysis, Time Series Analysis, Data Visualization</td>
+</tr>
+<tr>
+<td><a href="Ecommerce Sales Analysis"><img src="Ecommerce Sales Analysis/thumbnail.png" width="100">Ecommerce Sales</a></td>
+<td>Analyzing ecommerce sales data to determine sales patterns and optimize marketing strategies</td>
+<td>Ecommerce, Sales Data Analysis, Time Series Analysis, Data Visualization</td>
+</tr>
+<tr>
+<td><a href="Financial Analysis"><img src="Financial Analysis/thumbnail.png" width="100">Financial</a></td>
+<td>Analyzing financial data to provide valueable insights and analytics.</td>
+<td>Financial Analysis, Statistical Analysis, Data Visualization</td>
+</tr>
+<tr>
+<td><a href="Flipkart Review Sentiment Analysis"><img src="Flipkart Review Sentiment Analysis/thumbnail.png" width="100">Flipkart Sentiment</a></td>
+<td>Assessing customer sentiment from Flipkart reviews using NLP techniques.</td>
+<td>Natural Language Processing (NLP), Sentiment Analysis, Data Cleaning</td>
+</tr>
+<tr>
+<td><a href="IMDB Movies Analysis"><img src="IMDB Movies Analysis/thumbnail.png" width="100">IMDB Movies</a></td>
+<td>Exploring and analyzing movie data from IMDB to identify trends and patterns.</td>
+<td>EDA, Data Visualization, Statistical Analysis</td>
+</tr>
+<tr>
+<td><a href="Lok Sabha Election Analysis (2024)"><img src="Lok Sabha Election Analysis (2024)/thumbnail.png" width="100">Election Analysis</a></td>
+<td>Analyzing data from the Lok Sabha elections to find meaningful patterns.</td>
+<td>Data cleaning, Descriptive Statistics, Data Visualization</td>
+</tr>
+<tr>
+<td><a href="Netflix Data Analysis"><img src="Netflix Data Analysis/thumbnail.png" width="100">Netflix Data</a></td>
+<td>Exploring and analyzing Netflix data for trends, viewing habits, and content performance.</td>
+<td>EDA, Data Visualization, Time Series Analysis</td>
+</tr>
+<tr>
+<td><a href="Spotify Song Analysis"><img src="Spotify Song Analysis/thumbnail.png" width="100">Spotify Songs</a></td>
+<td>Analysing spotify song data to give interesting insights and patterns</td>
+<td>EDA, Machine Learning, Visualization</td>
+</tr>
+<tr>
+<td><a href="SQL & Python - Ecommerce Project"><img src="SQL & Python - Ecommerce Project/thumbnail.png" width="100">SQL & Python Ecommerce</a></td>
+<td>End-to-end Ecommerce with SQL for backend and Python for data insights.</td>
+<td>Data Analysis, Data Cleaning, Data Exploration, SQL, Python</td>
+</tr>
+<tr>
+<td><a href="Student Result Analysis"><img src="Student Result Analysis/thumbnail.png" width="100">Student Results</a></td>
+<td>Analyzing student result data to understand trends and patterns.</td>
+<td>Data Analysis, Data Cleaning, Descriptive Statistics, Data Visualization</td>
+</tr>
+<tr>
+<td><a href="Zomato Data Analysis"><img src="Zomato Data Analysis/thumbnail.png" width="100">Zomato Data</a></td>
+<td>Analyzing Zomato data to draw useful insights and trends to get enhanced understanding</td>
+<td>Data Cleaning, Data Exploration, Data Visualization</td>
+</tr>
 </table>
 
-## Skills
+</details>
 
-Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | EDA | Data Cleaning | Data Visualization | Statistical Analysis | SQL
+## Skills Showcase
 
+Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | SQL | NLP | EDA | Data Cleaning | Feature Engineering
+
+## Get in Touch
+
+[Your LinkedIn Profile](Your LinkedIn Profile URL) | [Your GitHub Profile](Your GitHub Profile URL)
