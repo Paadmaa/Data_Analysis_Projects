@@ -97,4 +97,8 @@ Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | SQL | NLP | EDA | Data Cl
 
 ## Get in Touch
 
-[Your LinkedIn Profile](Your LinkedIn Profile URL) | [Your GitHub Profile](Your GitHub Profile URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn Link]
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][GitHub Link]
+
+[LinkedIn Link]: [[(https://www.linkedin.com/in/padmach-behera/)]
+[GitHub Link]:   [(https://github.com/Paadmaa)]
