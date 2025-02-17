@@ -40,7 +40,7 @@ To run the notebook, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/churn-analysis.git
+   git clone https://github.com/Paadmaa/Customer Churn Analysis.git
    ```
 
 2. Navigate to the folder and open the notebook:
