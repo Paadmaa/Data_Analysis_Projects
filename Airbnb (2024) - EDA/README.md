@@ -126,16 +126,3 @@ The dataset contains **20,765 entries and 22 features**, including:
 This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using **EDA techniques**, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
 
 ---
-
-## License
-This project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code.
-
----
-
-## Contact
-For any queries, feel free to reach out at:
-- **YouTube**: [@Zero_Analyst](https://www.youtube.com/@Zero_Analyst)  
-- **GitHub**: [Your GitHub](https://github.com/your-repo)  
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-
----
